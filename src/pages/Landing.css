@@ -1,0 +1,10 @@
+.landing{
+    display: flex;
+    color: #fff;
+    
+   
+}
+.header1 h1{
+    font-weight: 700;
+    font-size: 28px;
+}
