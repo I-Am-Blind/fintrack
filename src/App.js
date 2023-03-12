@@ -24,9 +24,9 @@ function App() {
           </div>
           <div className="card-container flex gap-2 justify-start items-center px-4">
             <Card name="Spotify" plan="individual plan" price="500" />
-            <Card name="Spotify" plan="individual plan" price="500" />
-            <Card name="Spotify" plan="individual plan" price="500" />
-            <Card name="Spotify" plan="individual plan" price="500" />
+            <Card name="Netflix" plan="family plan" price="800" />
+            <Card name="Hotstar" plan="individual plan" price="600" />
+            <Card name="Amazon" plan="premium plan" price="400" />
           </div>
 
           <div className="text-xl font-semibold font-primary text-white p-4">
