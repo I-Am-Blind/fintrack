@@ -11,6 +11,9 @@ module.exports = {
       },
       fontFamily: {
         'primary': ['Space Grotesk', 'sans-serif'],
+      },
+      scale: {
+        '65': '.65'
       }
     },
   },
