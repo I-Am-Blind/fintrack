@@ -2,3 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+.card{
+  background: linear-gradient(319.07deg, #269076 13.83%, rgba(35, 37, 54, 0) 96.55%);
+}
+
+.button{
+  background: linear-gradient(319.07deg, #8E467A 13.83%, rgba(35, 37, 54, 0) 96.55%);
+}
